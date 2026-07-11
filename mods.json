@@ -1,6 +1,14 @@
 {
    "mods" : [
       {
+         "name" : "Some mods might fail :( (dont click)",
+         "tag" : "",
+         "gitPath" : "",
+         "releaseId" : 0,
+         "author" : "",
+         "group" : "Notes"
+      },
+      {
          "name" : "BepInEx",
          "tag" : "",
          "gitPath" : "BepInEx/BepInEx",
@@ -20,16 +28,12 @@
          ]
       },
       {
-         "name" : "Monke Map Loader",
+         "name" : "BingusNameTags++",
          "tag" : "",
-         "gitPath" : "Vadix88/MonkeMapLoader",
+         "gitPath" : "sirkingbinx/BingusNametagsPlusPlus",
          "releaseId" : 0,
-         "author" : "Vadix",
+         "author" : "sirkingbinx",
          "group" : "Gameplay",
-         "dependencies" : [
-          "Newtonsoft.JSON",
-          "Utilla",
-          "Computer Interface"
          ]
       },
       {
